@@ -1,5 +1,5 @@
 # leave_system
-Faculty leave system by Y NIKHIL SOURI
+Faculty leave system by Y NIKHIL SOURI & G. V. Rishitha
 Steps to run this application:
 1. Download and extract the zip file form the repository
 2. copy the folder into htdocs of xampp directory
